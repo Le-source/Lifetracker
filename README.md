@@ -1,2 +1,5 @@
-# myfirstcommit
-Beschreibung Irgendwas
+# Life Tracker
+
+# How to run the app
+
+# Gradle
